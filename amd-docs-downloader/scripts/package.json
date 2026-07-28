@@ -1,0 +1,9 @@
+{
+  "name": "amd-doc-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Download original PDFs from docs.amd.com (AMD/Xilinx) via khub API",
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}
