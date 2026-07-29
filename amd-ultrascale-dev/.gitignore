@@ -1,0 +1,4 @@
+# 本地配置与缓存不入库
+scripts/docs-location.txt
+__pycache__/
+*.pyc
